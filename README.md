@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miracle081
-- 👀 I’m interested in Wed design and Andriod and iOS development
+- 👀 I’m interested in Wed design and Android and iOS development
 - 📫 How to reach me 08166811697
 
 <!---
