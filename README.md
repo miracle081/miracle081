@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miracle081
+- 👋 Hi, I’m Miracle Obafemi
 - 👀 I’m interested in Wed design and Android and iOS development
 - 📫 How to reach me 08166811697
 
