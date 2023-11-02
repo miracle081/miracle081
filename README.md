@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miracle Obafemi
-- 👀 I’m interested in Wed design and Android and iOS development
+- 👀 I possess strong technical skills in web development and mobile app development, encompassing both Android and iOS platforms.
 - 📫 How to reach me 08166811697
 
 <!---
